@@ -1,0 +1,128 @@
+body {
+	margin: 0 auto;
+    background-color:#fec52e;
+    color:#fff;
+}
+.wrapper {
+	width: 650px;
+	height: 350px;
+	background: #baaf93;
+	margin: 170 0 50 300px;
+	border: 0;
+	border-radius: 10px;
+}
+.box-head{
+	height: 60px;
+	margin: 0 auto;
+}
+.box-head p {
+	color: #fff;
+	font-size: 48px;
+	text-align: center;
+}
+.box-head1{
+	height: 60px;
+	margin: 0 auto;
+}
+.box-head1 p {
+	color: #fff;
+	font-size: 48px;
+	text-align: center;
+}
+.box1{
+	width: 550px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 40px;
+	/*background-color: pink;*/
+}
+.box2{
+	width: 550px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 60px;
+	/*background-color: green;*/
+}
+.box3{
+	width: 150px;
+	height: 15px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-left: 170px;
+}
+.box4{
+	width: 200px;
+	height: 15px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-left: 170px;
+}
+.box4 a{
+		text-decoration: none;
+}
+.m1{
+	font-size: 22px;
+	float: left;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+.m2{
+	font-size: 22px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 15px;
+}
+.button {
+    font-family:'quicksandregular';
+     background-color: white;
+    color:  #baaf93;
+    border: 1px solid #fec52e;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #fff;
+    color:#fec52e;
+}
+
+.dropdrown {
+    color: #fec52e;
+    font-family:'quicksandregular';
+    font-size: 13px;
+    height:30px;
+    border: 1px solid #850000;
+    width: 250px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.dropdrown select {
+    font-family:'quicksandregular';
+    height: 40px;
+    padding: 5px 8px;
+    width: 120%;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+}
+
+.dropdrown select:focus {
+    outline: none;
+}
+.box-exchange{
+	margin-top: 30px;
+}
